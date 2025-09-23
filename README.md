@@ -1,2 +1,9 @@
-# customer-churn-prediction
-Machine Learning project to predict customer churn using data preprocessing, exploratory data analysis (EDA), feature engineering, and model building. Compared multiple algorithms (Logistic Regression, Random Forest, XGBoost, etc.) to identify the best-performing model for churn prediction
+**customer-churn-prediction**
+
+**Objective**
+The objective of this project is to analyze customer behavior and predict churn using Machine Learning techniques. 
+By identifying customers who are likely to leave, businesses can take proactive actions to improve customer retention, 
+reduce revenue loss, and enhance overall customer satisfaction.
+
+
+
